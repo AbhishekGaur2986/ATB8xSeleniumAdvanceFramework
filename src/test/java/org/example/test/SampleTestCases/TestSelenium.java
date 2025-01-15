@@ -1,4 +1,4 @@
-package org.example.test;
+package org.example.test.SampleTestCases;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
